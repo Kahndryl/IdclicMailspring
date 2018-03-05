@@ -1,7 +1,5 @@
-# N1 Less Is More UI theme
+# ID-Clic Theme for Mailspring based on Less is More
 
-Less Is More UI theme for N1.
+ID-Clic Theme for Mailspring
 
-This theme is installed by default with N1 and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_UI Themes_ drop-down menu.
+This is theme is based on "Less is more" for Mailspring.
