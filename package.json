@@ -1,0 +1,12 @@
+{
+  "name": "id-clic",
+  "displayName": "ID-Clic",
+  "theme": "ui",
+  "version": "1.0.7",
+  "description": "A minimal approach to email in Mailspring",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
