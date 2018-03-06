@@ -1,5 +1,7 @@
 # ID-Clic Theme for Mailspring 
 
+<img src="https://github.com/Kahndryl/IdclicMailspring/blob/master/images/idclic-theme.png">
+
 This is theme is based on "Less is more" for Mailspring.
 
 After the install, you can find the theme in ~/Library/Application Support/Mailspring/packages/
